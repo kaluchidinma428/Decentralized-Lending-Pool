@@ -9,3 +9,7 @@ T
 $contracts/borrower-verification.clar,3/6/36f8550b96b2ba3cd05257c00c36da7c32cfe8de
 T
 $contracts/collateral-management.clar,e/b/ebd25a6b95c263439674497e11db99ec1b77b36b
+N
+contracts/risk-assessment.clar,9/b/9bd619b8006324502bc6596111bafe5f91076bc2
+Q
+!contracts/repayment-tracking.clar,f/b/fbbc2b78a843f308d23916ee3dfef2536830e003
